@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Author: Pierre-Yves PARANTHOEN
 
 import os
 import sys
