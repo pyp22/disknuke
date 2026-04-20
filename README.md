@@ -70,4 +70,4 @@ kill -USR1 $(pgrep -f 'dd if=/dev')
 
 ## License
 
-MIT
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — free to use, modify and redistribute with attribution. Commercial use prohibited.
