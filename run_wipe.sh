@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Pierre-Yves PARANTHOEN
+# Author: Pierre-Yves PARANTHOEN <nuxsfm@gmail.com>
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"

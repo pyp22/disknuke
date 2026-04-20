@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author: Pierre-Yves PARANTHOEN
+# Author: Pierre-Yves PARANTHOEN <nuxsfm@gmail.com>
 
 import os
 import sys
